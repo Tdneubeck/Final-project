@@ -1,4 +1,4 @@
-<h1 id="midterm-baseball">Midterm-Baseball</h1>
+<h1 id="final-baseball">Final Project Baseball</h1>
 <h2 id="-history-of-baseball-historyofbaseball-md-"><a href="historyofbaseball.md">History of Baseball</a></h2>
 <h2 id="-the-rules-of-baseball-https-github-com-tdneubeck-midterm-baseball-blob-main-rulesofbaseball-md-"><a href="https://github.com/Tdneubeck/Midterm-Baseball/blob/main/RulesOfBaseball.md">The Rules of Baseball</a></h2>
 <h2 id="-positions-of-baseball-https-github-com-tdneubeck-midterm-baseball-blob-main-baseballpositions-md-"><a href="https://github.com/Tdneubeck/Midterm-Baseball/blob/main/BaseballPositions.md">Positions of Baseball</a></h2>
