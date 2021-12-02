@@ -2,7 +2,6 @@
 <html>
 <head>
  <meta charset="UTF-8">
-<title>Final Project</title>
   </head>
 <body>
 <h1 id="final-baseball">Final Project Baseball</h1>
